@@ -2,6 +2,6 @@
 
 ## problems along the way
 
-some trails are not named
-trails are broken into chunks 
+# some trails are not named
+# trails are broken into chunks 
 
