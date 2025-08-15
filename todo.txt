@@ -1,0 +1,16 @@
+Change Column Data types 
+
+Class to category
+Park to category
+City to category 
+Surface to category 
+\Width to float 
+summer use to category
+winter use to category
+plowed to boolean
+trail_name to string 
+length to float 
+
+
+
+
