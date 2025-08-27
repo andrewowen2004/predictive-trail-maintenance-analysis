@@ -12,15 +12,13 @@ trail_name to string
 length to float 
 
 
-Add population data to the csv 
+8/27
 
+Give city population to rows without it 
+Find nan values in dataset and clean 
 Create maintainance priority calculated column
-
-Visulaize with tablaue 
-
 Links to the actual trail location section 
-
-
+Visulaize with tablaue 
 
 
 
