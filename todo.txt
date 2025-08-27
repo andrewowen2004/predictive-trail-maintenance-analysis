@@ -12,5 +12,15 @@ trail_name to string
 length to float 
 
 
+Add population data to the csv 
+
+Create maintainance priority calculated column
+
+Visulaize with tablaue 
+
+Links to the actual trail location section 
+
+
+
 
 
